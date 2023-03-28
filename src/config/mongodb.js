@@ -1,0 +1,1 @@
+export const MONGODB_CNX_STR = 'mongodb+srv://agustFx:dalmata@cluster0.movtwfk.mongodb.net/?retryWrites=true&w=majority'
